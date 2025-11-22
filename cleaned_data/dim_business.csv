@@ -1,0 +1,63 @@
+business_id,business_name,business_type,business_address,contact_name,contact_phone
+BIZ-1018,"Adams, Zuniga and Wong",Restaurant,"Herbert Macaulay Way, Abuja",Elimu Agbaje,8017507864
+BIZ-1006,Blake and Sons,Bakery,"Ahmadu Bello Way, Abuja",Bolanle Kalumba,8055667651
+BIZ-1052,Chapman and Sons,Cafe,"Ahmadu Bello Way, Abuja",Hassan Nyoni,8083863413
+BIZ-1035,Rodriguez-Graham,Restaurant,"Herbert Macaulay Way, Abuja",Mandela Onyango,8075228535
+BIZ-1039,"Romero, Gonzalez and Brooks",Unknown,"Garki Area 1, Abuja",Mojisola Seko,8060119651
+BIZ-1025,Wilkerson-Day,Cafe,"Ahmadu Bello Way, Abuja",Chioma Mensah,8024716857
+BIZ-1001,Doyle Ltd,Restaurant,"Ahmadu Bello Way, Abuja",Adaeze Fofana,8083197857
+BIZ-1004,"Guzman, Hoffman and Baldwin",Bakery,"Herbert Macaulay Way, Abuja",Osman Touré,8097226012
+BIZ-1023,Morales-Jones,Fast Food,"Herbert Macaulay Way, Abuja",Yemisi Kalumba,8088320463
+BIZ-1032,"Ferrell, Rice and Maddox",Restaurant,"Ahmadu Bello Way, Abuja",Leko Nnamani,8031682744
+BIZ-1021,"Watts, Robinson and Nguyen",Restaurant,"Herbert Macaulay Way, Abuja",Chiamaka Egbue,8096282117
+BIZ-1015,Galloway-Wyatt,Fast Food,"Ahmadu Bello Way, Abuja",Mojisola Olamide,8096977837
+BIZ-1037,"Baker, Mason and White",Cafe,"Herbert Macaulay Way, Abuja",Ndidi Simba,8080823176
+BIZ-1033,Frazier Inc,Bakery,"Herbert Macaulay Way, Abuja",Baba Kwame,8012614124
+BIZ-1007,"Henderson, Ramirez and Lewis",Fast Food,"Ahmadu Bello Way, Abuja",Lemuel Nnamani,8055176955
+BIZ-1054,Jones Inc,Bakery,"Ahmadu Bello Way, Abuja",Ndidi Bakari,8075181648
+BIZ-1034,"Dyer, Potter and Mack",Bakery,"Garki Area 1, Abuja",Tumelo Otieno,8017774584
+BIZ-1038,Harrell LLC,Cafe,"Ahmadu Bello Way, Abuja",Morenike Mbadiwe,8036998038
+BIZ-1057,"Johnston, Sanchez and Kennedy",Fast Food,"Garki Area 1, Abuja",Bolanle Amin,8084593961
+BIZ-1048,Hickman Ltd,Cafe,"Garki Area 1, Abuja",Ngozi Amin,8017270733
+BIZ-1009,Unknown,Fast Food,"Herbert Macaulay Way, Abuja",Dada Abdoulaye,8071662963
+BIZ-1010,Unknown,Bakery,"Garki Area 1, Abuja",Mandela Chiluba,8049349722
+BIZ-1005,"Gardner, Robinson and Lawrence",Cafe,"Ahmadu Bello Way, Abuja",Abena Obasanjo,8047338124
+BIZ-1029,"Snyder, Campos and Callahan",Fast Food,"Herbert Macaulay Way, Abuja",Odion Banda,8049392920
+BIZ-1061,Powell LLC,Restaurant,"Ahmadu Bello Way, Abuja",Aisha Onyango,8034941004
+BIZ-1060,"Brown, Valdez and Lucas",Fast Food,"Ahmadu Bello Way, Abuja",Ngugi Mugabe,8073993471
+BIZ-1045,Spence PLC,Unknown,Unknown,Morenike Kaboré,8086644106
+BIZ-1011,Unknown,Unknown,"Herbert Macaulay Way, Abuja",Abdul Cissé,8019335534
+BIZ-1055,Jones-Young,Cafe,Unknown,Chinwe Oluoch,8032097220
+BIZ-1046,Anderson Group,Cafe,"Ahmadu Bello Way, Abuja",Ifunanya Bakari,8035556386
+BIZ-1013,"Mcclure, Ward and Lee",Bakery,"Ahmadu Bello Way, Abuja",Aziz Eze,8047308985
+BIZ-1042,Rodriguez LLC,Restaurant,"Herbert Macaulay Way, Abuja",Yemi Osei,8019528530
+BIZ-1017,"Flowers, Martin and Kelly",Restaurant,"Ahmadu Bello Way, Abuja",Jamila Eze,8046231783
+BIZ-1014,Williams and Sons,Cafe,"Herbert Macaulay Way, Abuja",Gimba Moyo,8059684848
+BIZ-1012,Arnold Ltd,Unknown,"Herbert Macaulay Way, Abuja",Masamba Agbaje,8048840994
+BIZ-1019,"Reid, Ferguson and Sanchez",Restaurant,"Ahmadu Bello Way, Abuja",Kunle Ali,8045935572
+BIZ-1053,"Robinson, Jones and Welch",Bakery,"Ahmadu Bello Way, Abuja",Temidayo Annan,8011980765
+BIZ-1022,Unknown,Cafe,"Ahmadu Bello Way, Abuja",Dada Kouyaté,8043101783
+BIZ-1016,James Group,Unknown,"Herbert Macaulay Way, Abuja",Adesuwa Chiume,8081691040
+BIZ-1056,"Washington, Ryan and Cummings",Cafe,"Ahmadu Bello Way, Abuja",Obinna Simba,8071070189
+BIZ-1036,Smith-Bowen,Bakery,"Herbert Macaulay Way, Abuja",Onyeka Kaboré,8027232410
+BIZ-1008,Garcia-James,Bakery,"Ahmadu Bello Way, Abuja",Chinonso Achebe,8058181396
+BIZ-1030,Burton Ltd,Cafe,"Ahmadu Bello Way, Abuja",Chimamanda Osei,8045351479
+BIZ-1003,Davis and Sons,Bakery,"Ahmadu Bello Way, Abuja",Zane Adom,8090801586
+BIZ-1044,"Arroyo, Miller and Tucker",Bakery,Unknown,Chidike Jalloh,8099788677
+BIZ-1059,Gomez-Jenkins,Bakery,"Herbert Macaulay Way, Abuja",Adaeze Annan,8018181586
+BIZ-1058,Lee-Davis,Cafe,Unknown,Chukwuemeka Idowu,8039219319
+BIZ-1051,Walker LLC,Cafe,"Ahmadu Bello Way, Abuja",Asha Kamara,8047385696
+BIZ-1041,George Group,Restaurant,"Ahmadu Bello Way, Abuja",Ofa Mwangi,8088961459
+BIZ-1026,Baker and Sons,Restaurant,"Herbert Macaulay Way, Abuja",Tariq Biya,8066661351
+BIZ-1040,Ryan PLC,Cafe,Unknown,Ayodele Chilufya,8043273328
+BIZ-1024,"Walter, Edwards and Rios",Cafe,"Garki Area 1, Abuja",Yemi Kouyaté,8078387461
+BIZ-1020,Gray-Mayo,Bakery,"Ahmadu Bello Way, Abuja",Eniola Touré,8052235350
+BIZ-1002,"Mcclain, Miller and Henderson",Bakery,"Herbert Macaulay Way, Abuja",Asha Okeke,8013999315
+BIZ-1028,"Ross, Robinson and Bright",Fast Food,"Herbert Macaulay Way, Abuja",Musa Biya,8025374874
+BIZ-1027,"Hoffman, Baker and Richards",Unknown,"Garki Area 1, Abuja",Chinonso Museveni,8072820592
+BIZ-1031,Carlson-Cruz,Restaurant,"Herbert Macaulay Way, Abuja",Diallo Mills,8050056581
+BIZ-1043,Allen-Allen,Bakery,"Ahmadu Bello Way, Abuja",Bakari Okeke,8054349361
+BIZ-1000,Unknown,Bakery,"Ahmadu Bello Way, Abuja",Ijeoma Jalloh,8042868828
+BIZ-1050,"Brooks, Lam and Hayes",Bakery,"Ahmadu Bello Way, Abuja",Abdul Bello,8081979055
+BIZ-1047,"Martin, Rose and Obrien",Bakery,"Ahmadu Bello Way, Abuja",Oyin Mulenga,8057553014
+BIZ-1049,"Harris, Collins and Carney",Bakery,"Ahmadu Bello Way, Abuja",Ama Amin,8055540424
